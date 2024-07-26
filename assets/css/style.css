@@ -36,7 +36,6 @@ nav{
     z-index: 1;
    }
 
-
 .nav-link, .navbar-brand, .fa-bars{
     color: #FCFCF7;
 }
@@ -46,11 +45,6 @@ nav{
     background-color: #FCFCF7;
     color: #e95e35;
 }
-
-.navbar-toggler{
-    border: none;
-}
-
 
 h1{
     font-family: 'Cunia';
