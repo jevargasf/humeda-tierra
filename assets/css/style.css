@@ -11,6 +11,32 @@ nav{
     background-color: #e95e35;
 }
 
+#check{
+    display: none;
+}
+
+.menu{
+    display: none;
+}
+
+.hamburger-btn{
+    font-size: 1.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+#check:checked ~ .menu {
+    display: block;
+   }
+
+.menu {
+    position: absolute;
+    top: 2.5rem;
+    right: 0;
+    z-index: 1;
+   }
+
+
 .nav-link, .navbar-brand, .fa-bars{
     color: #FCFCF7;
 }
@@ -25,9 +51,9 @@ nav{
     border: none;
 }
 
+
 h1{
     font-family: 'Cunia';
     background-color: #e95e35;
     color: #FCFCF7;
 }
-
