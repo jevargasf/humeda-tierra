@@ -26,6 +26,10 @@ nav{
     display: none;
 }
 
+.menu-icon{
+    width: 2rem;
+}
+
 .hamburger-btn{
     font-size: 1.5rem;
     color:#FCFCF7;
@@ -40,7 +44,7 @@ nav{
     z-index: 1;
    }
 
-.nav-link, .navbar-brand, .fa-bars{
+.nav-link, .navbar-brand, .menu-icon{
     color: #FCFCF7;
 }
 

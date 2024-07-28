@@ -1,0 +1,32 @@
+@font-face{
+    font-family: "Dreaming outloud";
+    src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
+}
+
+.somos-titulo{
+    font-family: "Cunia";
+    color: #e95e35;
+}
+
+.somos-portada{
+    border-radius: 20pt;
+    margin-top: 2.5rem;
+}
+
+.somos-consigna-1{
+    position: relative;
+}
+
+.logo-fondo{
+    position: absolute;
+    top: 50%;
+    width: 25%;
+    opacity: 50%;
+    z-index: -1;
+}
+
+.somos-consigna-1 h2{
+    font-family: "Dreaming outloud";
+    color: #e95e35;
+    margin-top: 25%;
+}

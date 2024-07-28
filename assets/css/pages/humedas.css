@@ -1,9 +1,23 @@
-/* GENERAL */
 @font-face{
     font-family: "Dreaming outloud";
     src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
 }
 
-.equipa-texto{
+.humedas-tarjeta{
+    border: 4pt solid #9BD2EC;
+    border-radius: 10px;
+    
+}
+
+.humedas-titulo{
+    font-family: "Cunia";
+    color: #e95e35;
+}
+
+.humedas-texto{
     font-family: "Dreaming outloud";
+}
+
+.humedas-tarjeta h2{
+    color: #e95e35;
 }
