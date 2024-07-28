@@ -65,6 +65,11 @@ nav{
     position: relative;
 }
 
+.img-home{
+    width: 100%;
+}
+
+
 .home-logo{
     position: absolute;
     top: 60%;
