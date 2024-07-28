@@ -64,15 +64,11 @@ nav{
 .home{
     position: relative;
 }
-/* 
-.img-home{
-    display: block;
-} */
 
 .home-logo{
     position: absolute;
-    width: 100%;
-    left: 0;
+    top: 60%;
+    width: 25%;
 }
 
 /* TÍTULO HOME */
