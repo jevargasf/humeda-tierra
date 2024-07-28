@@ -1,0 +1,9 @@
+/* GENERAL */
+@font-face{
+    font-family: "Dreaming outloud";
+    src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
+}
+
+.equipa-texto{
+    font-family: "Dreaming outloud";
+}
