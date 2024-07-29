@@ -27,7 +27,7 @@
     position: relative;
     height: 300px;
     top: -80px;
-    right: 45px;
+    right: 50px;
 }
 
 .humedas-titulo{
@@ -122,4 +122,36 @@
 
 .humedas-link{
     text-decoration: none;
+}
+
+/*  CORRECCIÓN POSICIÓN IMÁGENES */
+
+#daniela-img{
+    height: 280px;
+    top: -70px;
+    right: 50px;
+}
+
+#karen-img{
+    height: 300px;
+    top: -90px;
+    right: 35px;
+}
+
+#maka-img{
+    height: 350px;
+    top: -120px;
+    right: 60px; 
+}
+
+#sue-img{
+    height: 350px;
+    top: -120px;
+    right: 65px;  
+}
+
+#carla-img{
+    height: 250px;
+    top: -40px;
+    right: 10px; 
 }
