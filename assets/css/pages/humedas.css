@@ -15,7 +15,7 @@
 
 .contenedor-img-imp{
     width: 40%;
-    height: 150pt;
+    height: 160pt;
     overflow:hidden;
     border-radius: 15pt;
     top: 5pt;
@@ -26,7 +26,7 @@
 .humedas-img-imp {
     position: relative;
     height: 300px;
-    top: -100px;
+    top: -80px;
     right: 45px;
 }
 
@@ -75,7 +75,7 @@
 
 .contenedor-img-par{
     width: 40%;
-    height: 150pt;
+    height: 160pt;
     overflow:hidden;
     border-radius: 15pt;
     top: 5pt;
