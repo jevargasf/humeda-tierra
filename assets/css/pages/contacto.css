@@ -1,0 +1,25 @@
+@font-face{
+    font-family: "Dreaming outloud";
+    src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
+}
+
+/* TÍTULO */
+.contacto-titulo{
+    font-family: "Cunia";
+    color: #e95e35;
+}
+
+.btn-contacto{
+    background-color: #e95e35;
+    color: #FCFCF7;
+    border: none;
+    border-radius: 5pt;
+    border-color: #FCFCF7;
+    padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+}
+
+.btn-contacto:hover{
+    background-color: #FCFCF7;
+    color: black;
+    border: 0.3px solid black;
+}
