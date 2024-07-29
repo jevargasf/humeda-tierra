@@ -144,6 +144,11 @@
     right: 60px; 
 }
 
+#linktree-icon{
+    width: auto;
+    height: 20px;
+}
+
 #sue-img{
     height: 350px;
     top: -120px;
@@ -154,4 +159,8 @@
     height: 250px;
     top: -40px;
     right: 10px; 
+}
+
+.fa-linkedin{
+    color: #FCFCF7;
 }
