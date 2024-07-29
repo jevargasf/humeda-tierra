@@ -65,5 +65,90 @@
 
 /* AJUSTES DE ESTILO */
 #coop-tarjeta-1{
-    margin-bottom: 13rem;
+    margin-bottom: 29rem;
 }
+
+/* MENÚ PRODUCTOS */
+.btn-link{
+    background-color: #73B9D4;
+    border: none;
+    border-radius: 5pt;
+    border-color: #FCFCF7;
+    padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+}
+
+.btn-link:hover{
+    color: #FCFCF7;
+}
+
+/* MODALS */
+.modal-dialog{
+    max-width: 100%;
+}
+
+.modal-title{
+    color: #e95e35;
+    font-family: "Dreaming outloud";
+    font-size: 30px;
+}
+
+.modal-content{
+    background-color: #73B9D4;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70vw;
+    margin: auto;
+    overflow-x: scroll;
+}
+
+.btn-link{
+    text-decoration: none;
+    color: #F8DFD7;
+    font-weight: bold;
+}
+
+.btn-volver{
+    background-color: #F8DFD7;
+    border: none;
+    border-radius: 5pt;
+    border-color: #FCFCF7;
+    padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+}
+
+.btn-volver:hover, .btn-contacto:hover{
+    background-color: #FCFCF7;
+    color: black;
+}
+
+.btn-contacto{
+    background-color: #e95e35;
+    color: #FCFCF7;
+    border: none;
+    border-radius: 5pt;
+    border-color: #FCFCF7;
+    padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+    text-decoration: none;
+}
+
+.btn-contacto a{
+    text-decoration: none;
+}
+
+
+/* TABLA */
+.table{
+    --bs-table-bg: #73B9D4;
+    --bs-table-color: black;
+}
+
+.publico{
+    display: none;
+}
+
+.modalidad{
+    display: none;
+}
+
+.encargada a{
+    text-decoration: none;
+}
+
