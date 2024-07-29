@@ -3,6 +3,11 @@
     src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
 }
 
+.humedas-titulo{
+    font-family: "Cunia";
+    color: #e95e35;
+}
+
 /* TARJETA IMPAR */
 
 .humedas-tarjeta-imp{
@@ -28,11 +33,6 @@
     height: 300px;
     top: -80px;
     right: 50px;
-}
-
-.humedas-titulo{
-    font-family: "Cunia";
-    color: #e95e35;
 }
 
 .humedas-texto-imp{
