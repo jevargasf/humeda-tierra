@@ -39,8 +39,8 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10pt;
     line-height: 12pt;
-    padding-left: 25pt;
-    padding-right: 7pt;
+    padding-left: 18pt;
+    padding-right: 8pt;
 }
 
 .humedas-tarjeta-imp h2{
@@ -85,15 +85,11 @@
 
 .humedas-img-par{
     position: relative;
-    height: 300px;
-    top: -100px;
+    height: 270px;
+    top: -45px;
     right: 45px;
 }
 
-.humedas-titulo{
-    font-family: "Cunia";
-    color: #e95e35;
-}
 
 .humedas-texto-par{
     font-family: Arial, Helvetica, sans-serif;
@@ -111,12 +107,12 @@
 }
 
 .humedas-icons{
-    padding-left: 45px;
+    padding-left: 25px;
 }
 
 .humedas-icon-par-1{
     width: 20px;
-    margin: 7pt 0 7pt 19.5pt;
+    margin: 7pt 0 7pt 0;
 }
 
 .humedas-icon-par-2{
