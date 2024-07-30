@@ -8,9 +8,19 @@
     color: #e95e35;
 }
 
-.somos-portada{
+.somos-contenedor-img{
+    overflow: hidden;
     border-radius: 20pt;
-    margin-top: 2.5rem;
+    margin-top: 1.5rem;
+    position: relative;
+    height: 160px;
+}
+
+.somos-portada-img{
+    position: absolute;
+    top: -70px;
+    left: -50px;
+    width: 350px;
 }
 
 .somos-consigna-1{
@@ -30,4 +40,9 @@
     color: #e95e35;
     margin-top: 1rem;
     font-size: 18pt;
+}
+
+/* CORRECCIONES DE ESTILO */
+#foto-somos-humeda-2{
+    top: -35px;
 }
