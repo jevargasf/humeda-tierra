@@ -8,3 +8,29 @@
     font-family: "Cunia";
     color: #e95e35;
 }
+
+.activismos-tarjeta{
+    position: relative;
+    margin-bottom: 7rem;
+}
+
+.activismos-img{
+    border-radius: 10pt;
+}
+
+.activismos-body-tarjeta{
+    background-color: #73B9D4;
+    position: absolute;
+    top: 90%;
+    border-radius: 10pt;
+}
+
+.activismos-subtitulo{
+    font-family: "Dreaming outloud";
+    color: #FCFCF7;
+}
+
+/* CAROUSEL */
+.carousel-item > img{
+    border-radius: 10pt;
+}
