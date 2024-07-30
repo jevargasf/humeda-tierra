@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "Dreaming outloud";
+    src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
+}
+
+/* TÍTULO */
+.colab-titulo{
+    font-family: "Cunia";
+    color: #e95e35;
+}
+
+.colab-consigna{
+    position: relative;
+}
+
+.colab-icon{
+    position: absolute;
+    top: 0;
+    left: 67.5px;
+    opacity: 50%;
+}

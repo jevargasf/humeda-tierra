@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "Dreaming outloud";
+    src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
+}
+
+/* TÍTULO */
+.activismos-titulo{
+    font-family: "Cunia";
+    color: #e95e35;
+}
