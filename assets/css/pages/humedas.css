@@ -3,6 +3,10 @@
     src:url("../../fonts/dreaming-outloud-allcaps-regular.otf")
 }
 
+body{
+    background-color: #FCFCF7;
+}
+
 .humedas-titulo{
     font-family: "Cunia";
     color: #e95e35;
@@ -169,4 +173,104 @@
 
 .fa-linkedin{
     color: #FCFCF7;
+}
+
+/* MEDIA QUERIES MD DESDE 768 A 992PX */
+@media (min-width: 768px) {
+    .humedas-tarjeta-par, .humedas-tarjeta-imp{
+        width: 45%;
+    }
+
+
+
+    /* CORRECCIÓN POSICIÓN IMÁGENES */
+    #nicole-img{
+        right: 50px;
+    }
+    
+    #cristina-img{
+
+    }
+
+    #daniela-img{
+        height: 280px;
+        top: -70px;
+        right: 40px;
+    }
+    
+    #karen-img{
+        height: 300px;
+        top: -90px;
+        right: 30px;
+    }
+    
+    #maka-img{
+        height: 350px;
+        top: -120px;
+        right: 60px; 
+    }
+    
+    #sue-img{
+        height: 350px;
+        top: -120px;
+        right: 65px;  
+    }
+    
+    #carla-img{
+        height: 250px;
+        top: -30px;
+        right: 20px; 
+    }
+    
+    #karen-ca-img{
+        height: 250px;
+        top: -10px;
+        right: 10px; 
+    }
+}
+
+/* MEDIA QUERIES LG SOBRE 992 */
+
+@media (min-width: 992px) {
+    .humedas-tarjeta-par, .humedas-tarjeta-imp{
+        width: 45%;
+    }
+
+    .contenedor-img-imp, .contenedor-img-par{
+        max-width: 165px;
+    }
+    /* CORRECCIÓN POSICIÓN IMÁGENES */
+    #nicole-img{
+        right: 30px;
+    }
+    
+    #cristina-img{
+        right: 25px;
+    }
+
+    #daniela-img{
+        right: 30px;
+    }
+    
+    #karen-img{
+        right: 20px;
+    }
+    
+    #maka-img{
+        right: 40px; 
+    }
+    
+    #sue-img{
+        right: 50px;  
+    }
+    
+    #carla-img{
+        right: 0px; 
+    }
+    
+    #karen-ca-img{
+        height: 250px;
+        top: -10px;
+        right: 10px; 
+    }
 }
