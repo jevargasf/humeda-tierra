@@ -16,10 +16,29 @@
 
 .coop-logo-fondo{
     position: absolute;
-    top: 4em;
+    top: 25%;
     width: 10em;
     opacity: 50%;
     z-index: -1;
+}
+
+
+@media (min-width: 768px) {
+    .coop-logo-fondo{
+        top: 4.5em;
+    }
+}
+
+@media (min-width: 992px) {
+    .coop-logo-fondo{
+        top: 7em;
+    }
+}
+
+@media (min-width: 1200px) {
+    .coop-logo-fondo{
+        top: 9em;
+    }
 }
 
 .coop-consigna-1 h2{
