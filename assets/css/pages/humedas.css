@@ -175,6 +175,111 @@ body{
     color: #FCFCF7;
 }
 
+/* MEDIA QUERIES DE 400 A 576PX */
+@media (min-width: 400px) and (max-width: 500px) {
+    .contenedor-img-imp, .contenedor-img-par{
+        width: 142px;
+    }
+
+    /* CORRECCIÓN POSICIÓN IMÁGENES */
+    #nicole-img{
+        right: 50px;
+    }
+    
+    #cristina-img{
+
+    }
+
+    #daniela-img{
+        height: 280px;
+        top: -70px;
+        right: 40px;
+    }
+    
+    #karen-img{
+        height: 300px;
+        top: -90px;
+        right: 30px;
+    }
+    
+    #maka-img{
+        height: 350px;
+        top: -120px;
+        right: 60px; 
+    }
+    
+    #sue-img{
+        height: 350px;
+        top: -120px;
+        right: 65px;  
+    }
+    
+    #carla-img{
+        height: 250px;
+        top: -30px;
+        right: 20px; 
+    }
+    
+    #karen-ca-img{
+        height: 250px;
+        top: -10px;
+        right: 10px; 
+    }
+}
+
+/* MEDIA QUERIES DE 500 A 576PX */
+@media (min-width: 500px) and (width < 768px) {
+    .contenedor-img-imp, .contenedor-img-par{
+        width: 174px;
+    }
+
+    /* CORRECCIÓN POSICIÓN IMÁGENES */
+    #nicole-img{
+        right: 50px;
+    }
+    
+    #cristina-img{
+
+    }
+
+    #daniela-img{
+        height: 280px;
+        top: -70px;
+        right: 40px;
+    }
+    
+    #karen-img{
+        height: 300px;
+        top: -90px;
+        right: 30px;
+    }
+    
+    #maka-img{
+        height: 350px;
+        top: -120px;
+        right: 60px; 
+    }
+    
+    #sue-img{
+        height: 350px;
+        top: -120px;
+        right: 65px;  
+    }
+    
+    #carla-img{
+        height: 250px;
+        top: -30px;
+        right: 20px; 
+    }
+    
+    #karen-ca-img{
+        height: 250px;
+        top: -10px;
+        right: 10px; 
+    }
+}
+
+
 /* MEDIA QUERIES MD DESDE 768 A 992PX */
 @media (min-width: 768px) {
     .humedas-tarjeta-par, .humedas-tarjeta-imp{
